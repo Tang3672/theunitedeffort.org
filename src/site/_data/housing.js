@@ -3,8 +3,8 @@ const Airtable = require('airtable');
 const base = new Airtable(
   {apiKey: process.env.AIRTABLE_API_KEY}).base(process.env.AIRTABLE_BASE_ID);
 
-const UNITS_TABLE = 'tblRtXBod9CC0mivK';
-const HOUSING_DATABASE_TABLE = 'tbl8LUgXQoTYEw2Yh';
+const UNITS_TABLE = 'tblF0P0q13bQic3Mj';
+const HOUSING_DATABASE_TABLE = 'tblWiMFZEiscWmNfQ';
 const HIGH_CAPACITY_UNIT = 4; // Bedrooms
 
 // A group of checkboxes for filtering housing results.
