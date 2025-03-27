@@ -3,9 +3,9 @@ const GtfsRealtimeBindings = require('gtfs-realtime-bindings');
 
 // Define local file paths for the St. Louis GTFS‑realtime data.
 const LOCAL_PATHS = {
-  vehicles: './StlRealTimeVehicles.pb',
-  trips: './StlRealTimeTrips.pb',
-  alerts: './StlRealTimeAlerts.pb',
+  vehicles: 'StlRealTimeVehicles.pb',
+  trips: 'StlRealTimeTrips.pb',
+  alerts: 'StlRealTimeAlerts.pb',
 };
 
 const fetchLocalStlTransitData = async () => {
