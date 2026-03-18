@@ -65,7 +65,7 @@ To make your own copy of this site and begin development, follow these instructi
 
 #### Clone this repo
 ```
-git clone https://github.com/theunitedeffort/theunitedeffort.org
+git clone https://github.com/Tang3672/theunitedeffort.org
 ```
 
 #### Install dependencies
