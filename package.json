@@ -23,6 +23,7 @@
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^4.0.0",
     "airtable": "^0.12.2",
+    "gtfs-realtime-bindings": "^0.0.5",
     "eleventy-plugin-nesting-toc": "^1.3.0",
     "marked": "^12.0.1",
     "sass": "^1.49.9"
